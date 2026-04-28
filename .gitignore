@@ -1,0 +1,12 @@
+# ---- Frontend (React) ----
+frontend/node_modules/
+frontend/build/
+frontend/.env
+.DS_Store
+
+# ---- Backend (Java/Tomcat) ----
+backend/target/
+backend/out/
+backend/.idea/
+*.class
+*.war

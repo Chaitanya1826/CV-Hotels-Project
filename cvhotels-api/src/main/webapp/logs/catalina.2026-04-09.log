@@ -1,0 +1,35 @@
+09-Apr-2026 18:51:42.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.117
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2026 18:21:16 UTC
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.117.0
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-26
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26+35-2893
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Apr-2026 18:51:42.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp
+09-Apr-2026 18:51:42.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\chait\Desktop\apache-tomcat-9.0.117
+09-Apr-2026 18:51:42.155 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\chait\Desktop\apache-tomcat-9.0.117
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp\temp
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp\conf\logging.properties
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1\lib\idea_rt.jar=52004
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+09-Apr-2026 18:51:42.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+09-Apr-2026 18:51:42.169 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-26\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-25.0.2.10-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\nodejs\;C:\Users\chait\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\chait\AppData\Local\Programs\Python\Python313\;C:\Users\chait\AppData\Local\Programs\Python\Launcher\;C:\Users\chait\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-1.8\bin;C:\Users\chait\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\chait\AppData\Local\Python\bin;C:\Users\chait\AppData\Local\Programs\Antigravity\bin;C:\Users\chait\AppData\Roaming\npm;.]
+09-Apr-2026 18:51:42.589 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Apr-2026 18:51:42.607 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [759] milliseconds
+09-Apr-2026 18:51:42.676 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Apr-2026 18:51:42.676 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.117]
+09-Apr-2026 18:51:42.689 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp\conf\Catalina\localhost\api.xml]
+09-Apr-2026 18:51:43.548 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Apr-2026 18:51:43.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\chait\IdeaProjects\cvhotels-api\src\main\webapp\conf\Catalina\localhost\api.xml] has finished in [911] ms
+09-Apr-2026 18:51:43.606 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Apr-2026 18:51:43.627 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1018] milliseconds
